@@ -37,10 +37,10 @@ Amigo Secreto es una aplicación web segura y eficiente diseñada para facilitar
 
 ```bash
 # Clonar el repositorio
-git clone 
+git clone https://github.com/zaidarosales/ProyectoAlura--AmigoSecreto.git
 
 # Navegar al directorio
-cd Proyecto--Alura-AmigoSecreto
+cd ProyectoAlura--AmigoSecreto
 
 # Iniciar la aplicación
 python app.py
@@ -62,8 +62,8 @@ python app.py
 5. Abrir Pull Request
 
 ## 📞 Soporte
-- Issues: [GitHub Issues]()
-- Email: 
+- Issues: [GitHub Issues](https://github.com/zaidarosales/ProyectoAlura--AmigoSecreto)
+- Email: zaidarosales16@gmail.com
 
 ---
-Desarrollado con ❤️ por []
+Desarrollado con ❤️ por [Zaida Marlith Rosales Agreda]
