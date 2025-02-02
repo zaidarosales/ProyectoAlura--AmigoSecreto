@@ -37,7 +37,7 @@ Amigo Secreto es una aplicación web segura y eficiente diseñada para facilitar
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/helbertenoch/Proyecto--Alura-AmigoSecreto.git
+git clone 
 
 # Navegar al directorio
 cd Proyecto--Alura-AmigoSecreto
@@ -62,8 +62,8 @@ python app.py
 5. Abrir Pull Request
 
 ## 📞 Soporte
-- Issues: [GitHub Issues](https://github.com/helbertenoch/Proyecto--Alura-AmigoSecreto)
-- Email: agredaenoch@gmail.com
+- Issues: [GitHub Issues]()
+- Email: 
 
 ---
-Desarrollado con ❤️ por [Helbert Enoch Rosales Agreda]
+Desarrollado con ❤️ por []
